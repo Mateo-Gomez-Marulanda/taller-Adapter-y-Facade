@@ -8,6 +8,19 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "co.edu.uniquindio.poo.facade.App",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "main.java.co.edu.uniquindio.poo.decorador.Main"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "main.java.co.edu.uniquindio.poo.decorador.App"
         },
         {
